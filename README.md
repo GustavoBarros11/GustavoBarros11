@@ -1,70 +1,33 @@
-## GUSTAVO S BARROS
-*Futuro Cientista de Dados | Desenvolvedor Web | Flutter*
-- - -
+<h1>Olá! Eu sou Gustavo Barros.</h1> 
+<li>🤖 Futuro Data Scientist <br> 
+<li>💻 Desenvolvedor Web <br>
+<li>Em busca da Singularity...
+<br></br>
+<div align="justify">
+  <a href="https://github.com/GustavoBarros11">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GustavoBarros11&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBarros11&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<h2 style="display: inline-block;color: white;">⭐⭐⭐⭐⭐  ==> </h2>
+  <div style="display: inline-block;"><br>
+  <img align="center" alt="Gustavo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Gustavo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Gustavo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+  <img align="center" alt="Gustavo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
+  <img align="center" alt="Gustavo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg">
+</div>
 
-<p align="center">
-  <a href="">Blog</a> •
-  <a href="">Resume</a> •
-  <a href="">Twitter</a> •
-  <a href="">Facebook</a> •
-  <a href="">Instagram</a> •
-  <a href="">LinkedIn</a>
-</p>
+</br>
 
-Olá, meu nome é `Gustavo S Barros`, sou `analista de sistemas` com pós-graduação em `banco de dados e Big Data`. Ademais, sou `projetista de hardware` especializado em microcontroladores da Atmel, além de projetar sistemas embarcados de baixo consumo energético.
+___
 
-🌱 Estou atualmente aprendendo ...
-- Estatística Descritiva
-- Storytelling com Dados
-- Pandas, Numpy e Matplotlib
-
-Tenho prática e conhecimento das demais tecnologias:
-
-## Tecnologias 
-
-```text
-Python          ⭐⭐⭐⭐⭐    5/5 
-Java            ⭐⭐⭐        3/5 
-PHP             ⭐⭐⭐⭐      4/5 
-JavaScript      ⭐⭐⭐⭐⭐    5/5 
-Pandas          ⭐⭐⭐⭐⭐    5/5 
-Numpy           ⭐⭐⭐⭐⭐    5/5 
-Matplotlib      ⭐⭐⭐⭐⭐    5/5 
-HTML5           ⭐⭐⭐⭐⭐    5/5 
-CSS3            ⭐⭐⭐⭐⭐    5/5 
-Flutter & Dart  ⭐⭐⭐⭐      4/5 
-Laravel         ⭐⭐⭐⭐      3/5 
-```
-
-## Banco de Dados
-```text
-MongoDB         ⭐⭐⭐⭐      4/5 
-MySQL           ⭐⭐⭐⭐      4/5 
-```
-
-## Softwares
-```text
-Visual Studio Code   ⭐⭐⭐⭐⭐    5/5 
-PyCharm              ⭐⭐⭐⭐⭐    5/5 
-Git                  ⭐⭐⭐⭐⭐    5/5
-Android Studio       ⭐⭐⭐⭐⭐    4/5
-Photoshop            ⭐⭐⭐⭐⭐    4/5 
-Illustrator          ⭐⭐⭐⭐⭐    3/5
-```
-
-Nas horas vagas gosto de projetar APIs e criar skills para a `Amazon Alexa`, além de jogar meu amado xadrez e ler.
-
-
-<!--
-**GustavoBarros11/GustavoBarros11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</br>
+  <center> 
+  <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/gustavobarros11/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/Gustavosb1156" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1d9bf0?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
+  <a href="https://medium.com/@gustavosb1156" target="_blank"><img src="https://img.shields.io/badge/-Medium-292929?style=for-the-badge&logo=medium&logoColor=b" target="_blank"></a> 
+   
+  <!-- ![Snake animation](https://github.com/GustavoBarros11/blob/output/github-contribution-grid-snake.svg) -->
+    
+</center>
