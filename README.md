@@ -3,19 +3,19 @@
 <li>💻 Desenvolvedor Web <br>
 <li>Em busca da Singularity...
 <br></br>
+<div style="display: inline-block;font-size: 1.5rem;color: white;">⭐⭐⭐⭐⭐ ==>
+  <img align="center" alt="Gustavo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Gustavo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Gustavo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+  <img align="center" alt="Gustavo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
+  <img align="center" alt="Gustavo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg">
+</div><br>
 <div align="justify">
   <a href="https://github.com/GustavoBarros11">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GustavoBarros11&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBarros11&layout=compact&langs_count=7&theme=dark"/>
 </div>
   </a>
-  <div style="display: inline-block;font-size: 1.5rem;color: white;">⭐⭐⭐⭐⭐ ==>
-  <img align="center" alt="Gustavo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Gustavo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gustavo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-  <img align="center" alt="Gustavo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
-  <img align="center" alt="Gustavo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg">
-</div>
 <br>
 
 ___
