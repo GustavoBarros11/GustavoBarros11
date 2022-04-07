@@ -9,8 +9,8 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBarros11&layout=compact&langs_count=7&theme=dark"/>
 </div>
   </a>
-  <div style="display: inline-block;font-size: 1.5rem;color: white;">⭐⭐⭐⭐⭐ ==></div>
-  <div style="display: inline-block;">
+  <div style="display: inline-block;font-size: 1.5rem;color: white;">⭐⭐⭐⭐⭐ ==>
+  &nbsp;
   <img align="center" alt="Gustavo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gustavo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gustavo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
@@ -23,7 +23,7 @@
 ___
 
 </br>
-  <div style="text-align: center"> 
+  <div> 
   <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/gustavobarros11/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/Gustavosb1156" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1d9bf0?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
