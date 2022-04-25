@@ -3,7 +3,7 @@
 <li>💻 Desenvolvedor Web <br>
 <li>Em busca da Singularity...
 <br></br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucaslopes" alt="lucaslopes" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GustavoBarros11" alt="gustavobarros" /> </p>
 <div style="display: inline-block;color: white;">⭐⭐⭐⭐⭐ ==>
   <img align="center" alt="Gustavo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gustavo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
