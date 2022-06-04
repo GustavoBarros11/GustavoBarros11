@@ -18,22 +18,17 @@
 </div>
   </a>
 
-___
 <br>
+<center>
   <div> 
-  <a href="https://www.linkedin.com/in/gustavobarros11/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/Gustavosb1156" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1d9bf0?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://medium.com/@gustavosb1156" target="_blank"><img src="https://img.shields.io/badge/-Medium-292929?style=for-the-badge&logo=medium&logoColor=b" target="_blank"></a>
-   
-  <!-- ![Snake animation](https://github.com/GustavoBarros11/blob/output/github-contribution-grid-snake.svg) -->
-
-</div>
+    <a href="https://www.linkedin.com/in/gustavobarros11/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://twitter.com/Gustavosb1156" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1d9bf0?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+    <a href="https://medium.com/@gustavosb1156" target="_blank"><img src="https://img.shields.io/badge/-Medium-292929?style=for-the-badge&logo=medium&logoColor=b" target="_blank"></a>
+  </div>
+</center>
 <br>
-
-___
-
 <div>
-<h2>:man_technologist My Portfolio Projects</h2>
+<h2>My Projects Portfolio</h2>
 <ul>
   <li>
     <a href='#'>Classfying Dog Breed with a CNN</a> [Completed heavy_check_mark]
@@ -65,7 +60,7 @@ ___
 </div>
 
 <div>
-<h2>:man_technologist My Courses & Main Certifications</h2>
+<h2>My Courses & Main Certifications</h2>
 <ul>
   <li>
     <a href='#'>Google Data Analyst Professional Certificate</a> 
@@ -89,7 +84,7 @@ ___
   </li>
   <li>
     <a href='#'>Nanodegree Machine Learning & AI Foundations</a> [Completed heavy_check_mark]
-    <h5>Udacity</h5>
+    <h5>From Udacity</h5>
     <p></p>
   </li>
 </ul>
