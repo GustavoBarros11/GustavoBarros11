@@ -16,14 +16,14 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GustavoBarros11&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBarros11&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  </a> [Completed heavy_check_mark]
+  </a>
 
 ___
 <br>
   <div> 
-  <a href="https://www.linkedin.com/in/gustavobarros11/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> [Completed heavy_check_mark]
-  <a href="https://twitter.com/Gustavosb1156" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1d9bf0?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> [Completed heavy_check_mark] 
-  <a href="https://medium.com/@gustavosb1156" target="_blank"><img src="https://img.shields.io/badge/-Medium-292929?style=for-the-badge&logo=medium&logoColor=b" target="_blank"></a> [Completed heavy_check_mark] 
+  <a href="https://www.linkedin.com/in/gustavobarros11/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/Gustavosb1156" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1d9bf0?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://medium.com/@gustavosb1156" target="_blank"><img src="https://img.shields.io/badge/-Medium-292929?style=for-the-badge&logo=medium&logoColor=b" target="_blank"></a>
    
   <!-- ![Snake animation](https://github.com/GustavoBarros11/blob/output/github-contribution-grid-snake.svg) -->
 
@@ -31,7 +31,6 @@ ___
 <br>
 
 ___
-<br>
 
 <div>
 <h2>:man_technologist My Portfolio Projects</h2>
@@ -64,9 +63,6 @@ ___
   </li>
 </ul>
 </div>
-
-___
-<br>
 
 <div>
 <h2>:man_technologist My Courses & Main Certifications</h2>
