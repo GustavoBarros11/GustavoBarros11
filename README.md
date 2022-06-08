@@ -31,21 +31,21 @@
 <h2>My Projects Portfolio</h2>
 <ul>
   <li>
-    <a href='#'>Classfying Dog Breed with a CNN</a> [Completed heavy_check_mark]
+    <a href='#'>Classfying Dog Breed with a CNN</a> [Completed]
     <p>Given an image of a dog, the algorithm will identify an estimate of the canine’s breed. If supplied an image of a human, the code will identify the resembling dog breed.</p>
   </li>
   <li>
-    <a href='#'>Alura Data Imersion V4.0</a> [Completed heavy_check_mark]
+    <a href='#'>Alura Data Imersion V4.0</a> [Completed]
     <p>Projeto com notebook final que contem uma análise exploratória de um dataset de imóveis da cidade de São Paulo. Com a posterior agregação de dados públicos para enriquecer as análises.</p>
   </li>
   <li>
-    <a href='#'>Predicting Bike Sharing Data</a> [Completed heavy_check_mark]
+    <a href='#'>Predicting Bike Sharing Data</a> [Completed]
     <p>
       A company called Cyclo Hop have the business problem of not finding the best total number of bikes to keep in their inventory throughout the year. So i built a ML model based on historical time series data to make predictions about the best number of bikes to have stored over time.
     </p>
   </li>
   <li>
-    <a href='#'>Predicting Boston Housing Prices</a> [Completed heavy_check_mark]
+    <a href='#'>Predicting Boston Housing Prices</a> [Completed]
     <p>In this project I completed all the steps from a Machine Learning project pipeline. The resulting model tries to make good estimates of the price of houses in a particular region at the city of Boston.</p>
   </li>
   <li>
@@ -53,7 +53,7 @@
     <p>I am put in the role of a Data Scientist working for a real estate company, answering business questions that generate new insights to improve the company's business model. In the end, i generate a report estimating the total amount obteined from the insights generated in the analyis.</p>
   </li>
   <li>
-    <a href='#'>Exploring Chicago Bike Share Data</a> [Completed heavy_check_mark]
+    <a href='#'>Exploring Chicago Bike Share Data</a> [Completed]
     <p>This was one of my first Data Science project. Constist of analysing a simple dataset and displaying some summary statistics and anwering some questions about it.</p>
   </li>
 </ul>
@@ -63,8 +63,18 @@
 <h2>My Courses & Main Certifications</h2>
 <ul>
   <li>
-    <a href='#'>Google Data Analyst Professional Certificate</a> 
-    <h5>From Google & Coursera</h5>
+    <a href='https://confirm.udacity.com/KXKAWWPQ'>Nanodegree Machine Learning & AI Foundations</a> [Completed]
+    <h5>From Udacity</h5>
+    <p></p>
+  </li>
+  <li>
+    <a href='https://confirm.udacity.com/R9S6MM'>Nanodegree Deep Learning</a> [Completed]
+    <h5>From Udacity</h5>
+    <p></p>
+  </li>
+  <li>
+    <a href='#'>Data Analyst</a> [Completed]
+    <h5>From Datacamp</h5>
     <p></p>
   </li>
   <li>
@@ -73,18 +83,8 @@
     <p></p>
   </li>
   <li>
-    <a href='#'>Data Analyst</a> [Completed heavy_check_mark]
-    <h5>From Datacamp</h5>
-    <p></p>
-  </li>
-  <li>
-    <a href='#'>Nanodegree Deep Learning</a> [Completed heavy_check_mark]
-    <h5>From Udacity</h5>
-    <p></p>
-  </li>
-  <li>
-    <a href='#'>Nanodegree Machine Learning & AI Foundations</a> [Completed heavy_check_mark]
-    <h5>From Udacity</h5>
+    <a href='#'>Google Data Analyst Professional Certificate</a> 
+    <h5>From Google & Coursera</h5>
     <p></p>
   </li>
 </ul>
