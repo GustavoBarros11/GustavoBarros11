@@ -1,5 +1,5 @@
 <h1>Olá! Eu sou Gustavo Barros.</h1> 
-<li>🤖 Futuro Data Scientist <br> 
+<li>🤖 Data Scientist (Em Progresso ...)<br> 
 <li>💻 Desenvolvedor Web <br>
 <li>Em busca da Singularity...
 <br></br>
